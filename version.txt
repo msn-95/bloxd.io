@@ -1,2 +1,3 @@
-version_number:
-file_url:
+file-name:
+
+join the discord for changelogs
