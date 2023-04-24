@@ -1,5 +1,5 @@
-# Bloxd.io "performance" script
-## Updates all the time
-check for new version at [version file](https://github.com/msn-95/bloxd.io/blob/main/version.txt)
+# Bloxd.io script
+## MOVED
+[NEW GITHUB](https://github.com/msn-95/Bloxded-Client)
 ### Invites
-[discord](discord.gg/3wKsdJF7Qp)
+[discord](https://discord.io/bloxded)
