@@ -1,3 +1,3 @@
-file-name:
+Move to https://github.com/msn-95/Bloxded-Client
 
-join the discord for changelogs
+join Discord in README.md
