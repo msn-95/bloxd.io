@@ -1,4 +1,4 @@
-# Bloxd.io script
+# Bloxd.io script/hacks
 ## MOVED
 [NEW GITHUB](https://github.com/msn-95/Bloxded-Client)
 ### Invites
